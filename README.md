@@ -1,12 +1,14 @@
 <h1 align="center"><b>Computer Network</b></h1>
 <p align="center">
 ระบบเครือข่ายคอมพิวเตอร์
-<br></p>
+<br></p><br>
 
-![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/DL1.png)
+![NW2](https://github.com/SmileCat42/Network/blob/main/NWimg/NW2.jpg?raw=true)
 
-<br><br>Training Model การฝึกฝนโมเดล Login Page<br>
-![Training](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLTrain.png?raw=true)
+![NW5](https://github.com/SmileCat42/Network/blob/main/NWimg/NW5.jpg?raw=true)
+
+<br><br>LAB 1 — PC to switch<br>
+![Training](https://github.com/SmileCat42/Network/blob/main/NWimg/NWLab1.png?raw=true)
 
 <br><br>Accuracy & Adaptation ความแม่นยำและการปรับตัวให้เข้ากับชุดข้อมูล
 ![](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLacc.png)
