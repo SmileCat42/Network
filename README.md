@@ -7,17 +7,29 @@
 
 ![NW5](https://github.com/SmileCat42/Network/blob/main/NWimg/NW5.jpg?raw=true)
 
-<br><br>LAB 1 — PC to switch<br>
+<br><br>Physical system — จำลองระบบกายภาพเสมือนจริง<br>
+![Training](https://github.com/SmileCat42/Network/blob/main/NWimg/NWps.png?raw=true)
+
+<br><br>LAB 1 — PC to Switch<br>
 ![Training](https://github.com/SmileCat42/Network/blob/main/NWimg/NWLab1.png?raw=true)
 
-<br><br>Accuracy & Adaptation ความแม่นยำและการปรับตัวให้เข้ากับชุดข้อมูล
-![](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLacc.png)
+<br><br>LAB 2 — Switches to Router<br>
+![Training](https://github.com/SmileCat42/Network/blob/main/NWimg/NWLab2.png?raw=true)
 
-<br><br>Augmention การเจนโครงรูปใหม่
-![](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DLGen.png)
+<br><br>LAB 3 — Router to Router and ping<br>
+![Training](https://github.com/SmileCat42/Network/blob/main/NWimg/NW3.png?raw=true)
 
-<br><br>Predict การทำนาย
-![Predict](https://github.com/SmileCat42/Deep-Learning/blob/main/img/DL2.png)
+<br><br>LAB 4 — Connect between 3 routers<br>
+![Training](https://github.com/SmileCat42/Network/blob/main/NWimg/NWLab4.png?raw=true)
+
+<br><br>LAB 5 — VLan and Hub<br>
+![Training](https://github.com/SmileCat42/Network/blob/main/NWimg/NWLab5.png?raw=true)
+
+<br><br>LAB 6 — Dynamic routing<br>
+![Training](https://github.com/SmileCat42/Network/blob/main/NWimg/NWLab6.png?raw=true)
+
+<br><br>LAB Pretest<br>
+![Training](https://github.com/SmileCat42/Network/blob/main/NWimg/NWPretest.png?raw=true)
 
 <br><br>
 
