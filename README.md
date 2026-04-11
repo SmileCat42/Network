@@ -2,6 +2,7 @@
   <a href="#network">
     <img src="https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco">
   </a>
+  
   <img src="https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat&logo=cisco">
   <img src="https://img.shields.io/badge/Subnetting-IPv4-green?style=flat">
   <img src="https://img.shields.io/badge/Routing-RIP-purple?style=flat">
@@ -9,6 +10,7 @@
   <a href="./Envi.pdf">
     <img src="https://img.shields.io/badge/go%20to-Classroom%20Environment-silver?style=flat">
   </a>
+  
   <a href="#score">
     <img src="https://img.shields.io/badge/go%20to-Grade-silver?style=flat">
   </a>
@@ -89,7 +91,7 @@
 1. กอล์ฟสามารถเลือกใช้สายไฟกับระหว่างอุปกรณ์ 2 ตัว ได้อย่างถูกต้อง ว่ากรณีไหนต้องใช้สาย Straight กรณีไหนต้องใช้สาย cross เพื่อให้ระบบทำงานได้อย่างถูกต้อง
 <br>2. กอล์ฟสามารถออกแบบระบบเน็ตเวิร์กเบี้องต้นได้ รวมถึงการแบ่ง Subnet ให้มีจำนวนเหมาะสมกับแต่ละ Department จนถึงระดับองค์กรมากถึง 5 สาขา ภายในเครือข่ายเดียวกัน พร้อมทั้งการเซ็ตค่าอุปกรณ์ไม่ว่าจะเป็นชื่อ, IP address, VLan, Trunk, Static Routing พร้อมทั้งเชื่อมหากัน(Ping) ภายในระหว่าง 5 สาขาได้สำเร็จ
 
-[![LAB Pretest](https://img.shields.io/badge/LAB%20Pretest-Dynamic%20Routing-orange?style=plastic)](https://github.com/SmileCat42/Network/raw/refs/heads/main/EXex.pkt)
+[![LAB Pretest](https://img.shields.io/badge/LAB%20Pretest-Dynamic%20Routing-orange?style=plastic)](./EXex.pkt)
 <br>3. ถึงแม้กอล์ฟยังไม่มีประสบการณ์ต่อสายจริง แต่สามารถเข้าใจได้ง่ายผ่านโปรแกรมจำลองที่ใกล้เคียงกับระบบจริง
 <br>
 <br>
@@ -153,7 +155,7 @@
 1. I can choose the correct type of network cable between two devices, knowing when to use a straight-through cable and when to use a crossover cable to ensure proper communication.
 <br>2. I can design a basic network system, including subnetting for different departments and scaling up to an enterprise network with up to 5 branches within the same network. I can also configure devices such as setting names, IP addresses, VLANs, trunking, and static routing, and successfully connect all branches using ping.
 
-[![LAB Pretest](https://img.shields.io/badge/LAB%20Pretest-Dynamic%20Routing-orange?style=plastic)](https://github.com/SmileCat42/Network/raw/refs/heads/main/EXex.pkt)
+[![LAB Pretest](https://img.shields.io/badge/LAB%20Pretest-Dynamic%20Routing-orange?style=plastic)](./EXex.pkt)
 <br>3. Although I do not have real-world experience with physical cabling, I can understand it easily through simulation tools that closely represent real systems.
 <br>
 <br>
