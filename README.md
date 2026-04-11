@@ -1,4 +1,4 @@
-![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge&logo=cisco) ![Subnetting](https://img.shields.io/badge/Cisco-Packet-orange?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco) ![Program](https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat) ![Subnettin](https://img.shields.io/badge/Subnetting-IPv4-green?style=flat) ![DynamicRouting](https://img.shields.io/badge/Routing-RIP-orange?style=flat)
 <h1 align="center"><b>Computer Network</b></h1>
 <p align="center">
 ระบบเครือข่ายคอมพิวเตอร์
