@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Subnetting-IPv4-green?style=flat">
   <img src="https://img.shields.io/badge/Routing-RIP-purple?style=flat">
   <br>
-  <a href="#classroom">
+  <a href="./Envi.pdf">
     <img src="https://img.shields.io/badge/go%20to-Classroom%20Environment-silver?style=flat">
   </a>
   <a href="#score">
@@ -97,21 +97,20 @@
 <a id="classroom"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">บรรยากาศการเดินสาย</h2>
 
-[![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge)](./envi.pdf)
+[![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge)](./Envi.pdf)
 
 
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">การจดบันทึก</h2>
 
-[![view](https://img.shields.io/badge/Picture-Onsite-silver?style=for-the-badge)](./3106.txt)
+[![view](https://img.shields.io/badge/Note-3106-pink?style=for-the-badge)](./3106.txt)
 <br>
 <br>
 
 <a id="score"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
 📄 <a href="Pretest.pdf" target="_blank">แนวข้อสอบ (Pretest)</a><br>
-📄 <a href="src/score/score.pdf" target="_blank">ปลายภาค</a>
 <br>
 <br>
 
