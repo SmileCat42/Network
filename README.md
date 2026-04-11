@@ -103,7 +103,6 @@
 
 
 <br>
-<br>
 <h2 style="text-indent: 2em; text-decoration: underline;">การจดบันทึก</h2>
 
 [![view](https://img.shields.io/badge/Note-3106-pink?style=for-the-badge)](./3106.txt)
