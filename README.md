@@ -1,4 +1,22 @@
-[![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco)](#network) ![Program](https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat&logo=cisco) ![Subnettin](https://img.shields.io/badge/Subnetting-IPv4-green?style=flat) ![DynamicRouting](https://img.shields.io/badge/Routing-RIP-purple?style=flat) [![ Classroom Environment](https://img.shields.io/badge/go%20to-Classroom%20Environment-black?style=flat)](#classroom) [![score](https://img.shields.io/badge/go%20to-Grade-black?style=flat)](#score)
+<p align="center">
+  <a href="#network">
+    <img src="https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco">
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat&logo=cisco">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Subnetting-IPv4-green?style=flat">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Routing-RIP-purple?style=flat">
+  &nbsp;<br>
+  <a href="#classroom">
+    <img src="https://img.shields.io/badge/go%20to-Classroom%20Environment-silver?style=flat">
+  </a>
+  &nbsp;
+  <a href="#score">
+    <img src="https://img.shields.io/badge/go%20to-Grade-silver?style=flat">
+  </a>
+</p>
 
 <a id="network"></a>
 <br><br>
