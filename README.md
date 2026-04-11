@@ -97,7 +97,7 @@
 <a id="classroom"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">บรรยากาศการเดินสาย</h2>
 
-[![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge)](./3106.txt)
+[![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge)](./envi.pdf)
 
 
 <br>
@@ -110,7 +110,7 @@
 
 <a id="score"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
-📄 <a href="DLScore4.png" target="_blank">กลางภาค</a><br>
+📄 <a href="Pretest.pdf" target="_blank">แนวข้อสอบ (Pretest)</a><br>
 📄 <a href="src/score/score.pdf" target="_blank">ปลายภาค</a>
 <br>
 <br>
@@ -161,7 +161,7 @@
 
 <h2 style="text-indent: 2em; text-decoration: underline;">Classroom Environment</h2>
 
-[![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge)](./3106.txt)
+[![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge)](./Envi.pdf)
 <br>
 <br>
 
@@ -171,7 +171,7 @@
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">Learning Outcomes</h2>
-📄 <a href="DLScore4.png" target="_blank">Midterm</a><br>
+📄 <a href="Pretest.pdf" target="_blank">Pretest</a><br>
 📄 <a href="src/score/score.pdf" target="_blank">Final</a>
 <br>
 <br>
