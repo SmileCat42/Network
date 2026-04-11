@@ -57,19 +57,19 @@
 [![LAB 1 - Subnetting](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./lab1.pkt)
 <br>5. เข้าใจการทำงานของ Router และ Switch ในการเชื่อมต่อเครือข่ายระหว่างหลาย Department
 
-[![LAB 2 - Switch to Router](https://img.shields.io/badge/LAB%202-SwitchToRouter-blue?style=for-the-badge&logo=cisco)](./lab2.pkt)
+[![LAB 2 - Switch to Router](https://img.shields.io/badge/LAB%202-Switch%20to%20Router-blue?style=for-the-badge&logo=cisco)](./lab2.pkt)
 <br>6. สามารถสร้างโครงข่ายระดับองค์กร 2 สาขา(แบบย่อ) ที่สามารถเชื่อมหากันได้ โดยกำหนดเส้นทางแบบ Static Routing และตรวจสอบการเชื่อมต่อด้วยคำสั่ง ping
 
-[![LAB 3 - Static Routing](https://img.shields.io/badge/LAB%203-StaticRouting-blue?style=for-the-badge&logo=cisco)](./Ex3.pkt)
+[![LAB 3 - Static Routing](https://img.shields.io/badge/LAB%203-Static%20Routing-blue?style=for-the-badge&logo=cisco)](./Ex3.pkt)
 <br>7. สามารถสร้างโครงข่ายระดับองค์กร 3 สาขา(แบบย่อ) และสามารติดต่อกันได้ระหว่าง 3 สาขา
 
-[![LAB 4 - 3 Departments](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./ex4.pkt)
+[![LAB 4 - 3 Departments](https://img.shields.io/badge/LAB%204-3%20Departments-blue?style=for-the-badge&logo=cisco)](./ex4.pkt)
 <br>8. เข้าใจปัญหาของ Hub ทำให้เกิดการชนกันหรือ Collision Domain อีกทั้งยังสามารถแก้ไขปัญหาได้ด้วยการทำ VLan และ Trunk บน switch เพื่อแยก Broadcast Domain
 
-[![LAB 5 - VLanng](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./ex5.pkt)
+[![LAB 5 - VLanng](https://img.shields.io/badge/LAB%205-VLan-blue?style=for-the-badge&logo=cisco)](./ex5.pkt)
 <br>9. สามารถออกแบบระบบให้อุปกรณ์เรียนรู้เส้นทางกันเองแบบ Dynamic Routing พร้อมทั้งเชื่อมหากันได้ระหว่าง 3 สาขา
 
-[![LAB 6 - Dynamic Routing](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./ex6.pkt)
+[![LAB 6 - Dynamic Routing](https://img.shields.io/badge/LAB%206-Dynamic%20Routing-blue?style=for-the-badge&logo=cisco)](./ex6.pkt)
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">⭐ สกิลที่ได้รับหลังจากผ่านวิชานี้</h2>
@@ -84,7 +84,7 @@
 
 <h2 style="text-indent: 2em; text-decoration: underline;">บรรยากาศการเดินสาย</h2>
 
-[![LAB 1 - Subnetting](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./3106.txt)
+[![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge&logo=cisco)](./3106.txt)
 
 
 <br>
