@@ -74,7 +74,7 @@
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">บรรยากาศการเดินสาย</h2>
-[![LAB 1](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge)](3106.txt)
+[![LAB 1](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge)](https://github.com/SmileCat42/Network/edit/main/README.md)
 
 <br>
 <br>
