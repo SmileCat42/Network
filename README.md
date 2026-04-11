@@ -1,4 +1,4 @@
-[![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco)](#network) ![Program](https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat&logo=cisco) ![Subnettin](https://img.shields.io/badge/Subnetting-IPv4-green?style=flat) ![DynamicRouting](https://img.shields.io/badge/Routing-RIP-pink?style=flat)
+[![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco)](#network) ![Program](https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat&logo=cisco) ![Subnettin](https://img.shields.io/badge/Subnetting-IPv4-green?style=flat) ![DynamicRouting](https://img.shields.io/badge/Routing-RIP-purple?style=flat) [![ Classroom Environment](https://img.shields.io/badge/go%20to-Classroom%20Environment-brown?style=flat)](#classroom) [![score](https://img.shields.io/badge/go%20to-Grade-brown?style=flat)](#score)
 
 <a id="network"></a>
 <br><br>
@@ -80,7 +80,7 @@
 <br>
 <br>
 
-
+<a id="classroom"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">บรรยากาศการเดินสาย</h2>
 
 [![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge)](./3106.txt)
@@ -89,9 +89,12 @@
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">การจดบันทึก</h2>
-📄<a href="3106.txt" target="_blank">โน้ต 3106</a>
+
+[![view](https://img.shields.io/badge/Picture-Onsite-silver?style=for-the-badge)](./3106.txt)
 <br>
 <br>
+
+<a id="score"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
 📄 <a href="DLScore4.png" target="_blank">กลางภาค</a><br>
 📄 <a href="src/score/score.pdf" target="_blank">ปลายภาค</a>
@@ -100,11 +103,9 @@
 
 <h2 style="text-indent: 2em; text-decoration: underline;">ขั้นตอนการเปิดโปรแกรม</h2>
 1. ดาวน์โหลดไฟล์ LAB ที่สนใจลงเครื่องของท่าน (ปุ่ม CODE สีเขียว)
-<br>2. เปิดเว็ปเข้าลิงค์ 
-
-[Colab](https://colab.research.google.com/) อาจต้องมีการ Login gmail ก่อน
-<br>3. เลือกแถบ Upload แล้วเลือกไฟล์ที่ท่านโหลดไว้
-<br>4. กดปุ่ม play เพื่อรันโค้ดทีละส่วน หรือกด Run all เพื่อรันทั้งหมดอัตโนมัติ
+<br>2. ดาวน์โหลดและติดตั้งโปรแกรม Cisco Packet Tracer ลงเครื่องของท่าน
+<br>3. เปิดโปรแกรม ระบบจะพาไปหน้าเว็ปสำหรับ Login (ด้วย gmail)
+<br>4. กด open เลือกไฟล์ที่ท่านได้ดาวน์โหลดไว้
 <br><br><br><br>
 
 <a id="english"></a>
