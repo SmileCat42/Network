@@ -1,4 +1,6 @@
-![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco) ![Program](https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat) ![Subnettin](https://img.shields.io/badge/Subnetting-IPv4-green?style=flat) ![DynamicRouting](https://img.shields.io/badge/Routing-RIP-pink?style=flat)
+![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco) ![Program](https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat&logo=cisco) ![Subnettin](https://img.shields.io/badge/Subnetting-IPv4-green?style=flat) ![DynamicRouting](https://img.shields.io/badge/Routing-RIP-pink?style=flat)
+
+<br><br>
 <h1 align="center"><b>Computer Network</b></h1>
 <p align="center">
 ระบบเครือข่ายคอมพิวเตอร์
@@ -58,7 +60,7 @@
 [![LAB 1 - Subnetting](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./lab1.pkt)
 <br>5. เข้าใจการทำงานของ Router และ Switch ในการเชื่อมต่อเครือข่ายระหว่างหลาย Department
 
-[![LAB 2 - Switch to Router](https://img.shields.io/badge/LAB%202-Switch%20to%20Router-blue?style=for-the-badge&logo=cisco)](./lab2.pkt)
+[![LAB 2 - Switch to Router](https://img.shields.io/badge/LAB%202-Switch%20to%20Router-blue?style=plastic)](./lab2.pkt)
 <br>6. สามารถสร้างโครงข่ายระดับองค์กร 2 สาขา(แบบย่อ) ที่สามารถเชื่อมหากันได้ โดยกำหนดเส้นทางแบบ Static Routing และตรวจสอบการเชื่อมต่อด้วยคำสั่ง ping
 
 [![LAB 3 - Static Routing](https://img.shields.io/badge/LAB%203-Static%20Routing-blue?style=for-the-badge&logo=cisco)](./Ex3.pkt)
