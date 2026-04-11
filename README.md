@@ -79,7 +79,7 @@
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">การจดบันทึก</h2>
-📄<a href="Note4312.txt" target="_blank">โน้ต 3106</a>
+📄<a href="3106.txt" target="_blank">โน้ต 3106</a>
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
