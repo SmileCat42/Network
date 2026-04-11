@@ -74,7 +74,7 @@
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">บรรยากาศการเดินสาย</h2>
-📄<a href="Note4312.txt" target="_blank">โน้ต 3106</a>
+[![LAB 1](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge)](3106.txt)
 
 <br>
 <br>
