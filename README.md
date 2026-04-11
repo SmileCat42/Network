@@ -2,17 +2,13 @@
   <a href="#network">
     <img src="https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco">
   </a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat&logo=cisco">
-  &nbsp;
   <img src="https://img.shields.io/badge/Subnetting-IPv4-green?style=flat">
-  &nbsp;
   <img src="https://img.shields.io/badge/Routing-RIP-purple?style=flat">
-  &nbsp;<br>
+  <br>
   <a href="#classroom">
     <img src="https://img.shields.io/badge/go%20to-Classroom%20Environment-silver?style=flat">
   </a>
-  &nbsp;
   <a href="#score">
     <img src="https://img.shields.io/badge/go%20to-Grade-silver?style=flat">
   </a>
