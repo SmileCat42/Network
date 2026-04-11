@@ -39,8 +39,8 @@
 
 <a id="ภาษาไทย"></a>
 
-<h1 align="center"><b>COS4312</b></h1>
-<h3 align="center">Deep-Learning การเรียนรู้เชิงลึก</h3>
+<h1 align="center"><b>COS3106</b></h1>
+<h3 align="center">Network ระบบเครือข่ายคอมพิวเตอร์</h3>
 
 <br><br>
 <h2 style="text-indent: 2em; text-decoration: underline;">คำอธิบาย</h2>
