@@ -1,3 +1,4 @@
+![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge&logo=cisco) ![Subnetting](https://img.shields.io/badge/Cisco-Packet-orange?style=for-the-badge)
 <h1 align="center"><b>Computer Network</b></h1>
 <p align="center">
 ระบบเครือข่ายคอมพิวเตอร์
