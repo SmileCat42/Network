@@ -1,7 +1,7 @@
 <h1 align="center"><b>Computer Network</b></h1>
 <p align="center">
 ระบบเครือข่ายคอมพิวเตอร์
-<br></p><br>
+<br></p><br><br>
 
 ![NW2](https://github.com/SmileCat42/Network/blob/main/NWimg/NW2.jpg?raw=true)
 
@@ -57,10 +57,10 @@
 [![LAB 1 - Subnetting](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./lab1.pkt)
 <br>5. เข้าใจการทำงานของ Router และ Switch ในการเชื่อมต่อเครือข่ายระหว่างหลาย Department
 
-[![LAB 2 - Switch to Router](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./lab2.pkt)
+[![LAB 2 - Switch to Router](https://img.shields.io/badge/LAB%202-SwitchToRouter-blue?style=for-the-badge&logo=cisco)](./lab2.pkt)
 <br>6. สามารถสร้างโครงข่ายระดับองค์กร 2 สาขา(แบบย่อ) ที่สามารถเชื่อมหากันได้ โดยกำหนดเส้นทางแบบ Static Routing และตรวจสอบการเชื่อมต่อด้วยคำสั่ง ping
 
-[![LAB 3 - Static Routing](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./Ex3.pkt)
+[![LAB 3 - Static Routing](https://img.shields.io/badge/LAB%203-StaticRouting-blue?style=for-the-badge&logo=cisco)](./Ex3.pkt)
 <br>7. สามารถสร้างโครงข่ายระดับองค์กร 3 สาขา(แบบย่อ) และสามารติดต่อกันได้ระหว่าง 3 สาขา
 
 [![LAB 4 - 3 Departments](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./ex4.pkt)
@@ -75,7 +75,8 @@
 <h2 style="text-indent: 2em; text-decoration: underline;">⭐ สกิลที่ได้รับหลังจากผ่านวิชานี้</h2>
 1. กอล์ฟสามารถเลือกใช้สายไฟกับระหว่างอุปกรณ์ 2 ตัว ได้อย่างถูกต้อง ว่ากรณีไหนต้องใช้สาย Straight กรณีไหนต้องใช้สาย cross เพื่อให้ระบบทำงานได้อย่างถูกต้อง
 <br>2. กอล์ฟสามารถออกแบบระบบเน็ตเวิร์กเบี้องต้นได้ รวมถึงการแบ่ง Subnet ให้มีจำนวนเหมาะสมกับแต่ละ Department จนถึงระดับองค์กรมากถึง 5 สาขา ภายในเครือข่ายเดียวกัน พร้อมทั้งการเซ็ตค่าอุปกรณ์ไม่ว่าจะเป็นชื่อ, IP address, VLan, Trunk, Static Routing พร้อมทั้งเชื่อมหากัน(Ping) ภายในระหว่าง 5 สาขาได้สำเร็จ
-<a href="EXex.pkt"> LAB Pretest </a>
+
+[![LAB Pretest](https://img.shields.io/badge/LAB%20Pretest-Dynamic%20Routing-orange?style=for-the-badge&logo=cisco)](./ex6.pkt)
 <br>3. ถึงแม้กอล์ฟยังไม่มีประสบการณ์ต่อสายจริง แต่สามารถเข้าใจได้ง่ายผ่านโปรแกรมจำลองที่ใกล้เคียงกับระบบจริง
 <br>
 <br>
