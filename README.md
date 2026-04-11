@@ -73,8 +73,11 @@
 <br>3. ถึงแม้กอล์ฟยังไม่มีประสบการณ์ต่อสายจริง แต่สามารถเข้าใจได้ง่ายผ่านโปรแกรมจำลองที่ใกล้เคียงกับระบบจริง
 <br>
 <br>
+
+
 <h2 style="text-indent: 2em; text-decoration: underline;">บรรยากาศการเดินสาย</h2>
-[![LAB 1](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge)](https://github.com/SmileCat42/Network/edit/main/README.md)
+[![LAB 1](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge)](3106.txt)
+
 
 <br>
 <br>
