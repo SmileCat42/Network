@@ -1,5 +1,6 @@
-![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco) ![Program](https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat&logo=cisco) ![Subnettin](https://img.shields.io/badge/Subnetting-IPv4-green?style=flat) ![DynamicRouting](https://img.shields.io/badge/Routing-RIP-pink?style=flat)
+![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=flat&logo=cisco)(#network) ![Program](https://img.shields.io/badge/Program-Cisco%20Tracer-orange?style=flat&logo=cisco) ![Subnettin](https://img.shields.io/badge/Subnetting-IPv4-green?style=flat) ![DynamicRouting](https://img.shields.io/badge/Routing-RIP-pink?style=flat)
 
+<a id="network"></a>
 <br><br>
 <h1 align="center"><b>Computer Network</b></h1>
 <p align="center">
@@ -57,22 +58,17 @@
 <br>3. เข้าใจถึงปัญหาของการเกิด Delay ในการส่ง packet แต่ละครั้งว่าความหน่วงหรือดีเลย์ที่เกิดขึ้นมาจากอะไรได้บ้าง เช่น Processing, Queuing, Transmission และ Propagation delay อีกทั้งยังสามารถคำนวณค่าได้คร่าวๆ เพื่อประเมินศักยภาพของสัญญาณ ณ เวลานั้นว่ามีความเหมาะสมหรือไม่ ควรเปลี่ยนอุปกรณ์หรือเปล่า
 <br>4. สามารถคำนวณการแบ่ง Subnet และเลือกใช้ IP Address (IPv4) ให้เหมาะสมกับจำนวนอุปกรณ์ในแต่ละเครือข่าย
 
-[![LAB 1 - Subnetting](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=for-the-badge&logo=cisco)](./lab1.pkt)
+[![LAB 1 - Subnetting](https://img.shields.io/badge/LAB%201-Subnetting-blue?style=plastic)](./lab1.pkt)
 <br>5. เข้าใจการทำงานของ Router และ Switch ในการเชื่อมต่อเครือข่ายระหว่างหลาย Department
-
 [![LAB 2 - Switch to Router](https://img.shields.io/badge/LAB%202-Switch%20to%20Router-blue?style=plastic)](./lab2.pkt)
 <br>6. สามารถสร้างโครงข่ายระดับองค์กร 2 สาขา(แบบย่อ) ที่สามารถเชื่อมหากันได้ โดยกำหนดเส้นทางแบบ Static Routing และตรวจสอบการเชื่อมต่อด้วยคำสั่ง ping
-
-[![LAB 3 - Static Routing](https://img.shields.io/badge/LAB%203-Static%20Routing-blue?style=for-the-badge&logo=cisco)](./Ex3.pkt)
+[![LAB 3 - Static Routing](https://img.shields.io/badge/LAB%203-Static%20Routing-blue?style=plastic)](./Ex3.pkt)
 <br>7. สามารถสร้างโครงข่ายระดับองค์กร 3 สาขา(แบบย่อ) และสามารติดต่อกันได้ระหว่าง 3 สาขา
-
-[![LAB 4 - 3 Departments](https://img.shields.io/badge/LAB%204-3%20Departments-blue?style=for-the-badge&logo=cisco)](./ex4.pkt)
+[![LAB 4 - 3 Departments](https://img.shields.io/badge/LAB%204-3%20Departments-blue?style=plastic)](./ex4.pkt)
 <br>8. เข้าใจปัญหาของ Hub ทำให้เกิดการชนกันหรือ Collision Domain อีกทั้งยังสามารถแก้ไขปัญหาได้ด้วยการทำ VLan และ Trunk บน switch เพื่อแยก Broadcast Domain
-
-[![LAB 5 - VLanng](https://img.shields.io/badge/LAB%205-VLan-blue?style=for-the-badge&logo=cisco)](./ex5.pkt)
+[![LAB 5 - VLanng](https://img.shields.io/badge/LAB%205-VLan-blue?style=plastic)](./ex5.pkt)
 <br>9. สามารถออกแบบระบบให้อุปกรณ์เรียนรู้เส้นทางกันเองแบบ Dynamic Routing พร้อมทั้งเชื่อมหากันได้ระหว่าง 3 สาขา
-
-[![LAB 6 - Dynamic Routing](https://img.shields.io/badge/LAB%206-Dynamic%20Routing-blue?style=for-the-badge&logo=cisco)](./ex6.pkt)
+[![LAB 6 - Dynamic Routing](https://img.shields.io/badge/LAB%206-Dynamic%20Routing-blue?style=plastic)](./ex6.pkt)
 <br>
 <br>
 <h2 style="text-indent: 2em; text-decoration: underline;">⭐ สกิลที่ได้รับหลังจากผ่านวิชานี้</h2>
@@ -87,7 +83,7 @@
 
 <h2 style="text-indent: 2em; text-decoration: underline;">บรรยากาศการเดินสาย</h2>
 
-[![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge&logo=cisco)](./3106.txt)
+[![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge)](./3106.txt)
 
 
 <br>
