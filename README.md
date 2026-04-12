@@ -80,7 +80,7 @@
 <br>6. สามารถสร้างโครงข่ายระดับองค์กร 2 สาขา(แบบย่อ) ที่สามารถเชื่อมหากันได้ โดยกำหนดเส้นทางแบบ Static Routing และตรวจสอบการเชื่อมต่อด้วยคำสั่ง ping
 [![LAB 3 - Static Routing](https://img.shields.io/badge/LAB%203-Static%20Routing-blue?style=plastic)](./Ex3.pkt)
 <br>7. สามารถสร้างโครงข่ายระดับองค์กร 3 สาขา(แบบย่อ) และสามารติดต่อกันได้ระหว่าง 3 สาขา
-[![LAB 4 - 3 Departments](https://img.shields.io/badge/LAB%204-3%20Departments-blue?style=plastic)](./ex4.pkt)
+[![LAB 4 - 3 Departments](https://img.shields.io/badge/LAB%204-3%20Branches-blue?style=plastic)](./ex4.pkt)
 <br>8. เข้าใจปัญหาของ Hub ทำให้เกิดการชนกันหรือ Collision Domain อีกทั้งยังสามารถแก้ไขปัญหาได้ด้วยการทำ VLan และ Trunk บน switch เพื่อแยก Broadcast Domain
 [![LAB 5 - VLanng](https://img.shields.io/badge/LAB%205-VLan-blue?style=plastic)](./ex5.pkt)
 <br>9. สามารถออกแบบระบบให้อุปกรณ์เรียนรู้เส้นทางกันเองแบบ Dynamic Routing พร้อมทั้งเชื่อมหากันได้ระหว่าง 3 สาขา
