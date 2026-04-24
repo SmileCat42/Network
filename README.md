@@ -102,13 +102,6 @@
 [![view](https://img.shields.io/badge/Picture-Onsite-green?style=for-the-badge)](./Envi.pdf)
 
 
-<br>
-<h2 style="text-indent: 2em; text-decoration: underline;">การจดบันทึก</h2>
-
-[![view](https://img.shields.io/badge/Note-3106-pink?style=for-the-badge)](./3106.txt)
-<br>
-<br>
-
 <a id="score"></a>
 <h2 style="text-indent: 2em; text-decoration: underline;">ผลการเรียนรู้</h2>
 📄 <a href="Pretest.pdf" target="_blank">แนวข้อสอบ (Pretest)</a><br>
