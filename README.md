@@ -158,11 +158,6 @@
 <br>
 <br>
 
-<h2 style="text-indent: 2em; text-decoration: underline;">My Note</h2>
-
-[![view](https://img.shields.io/badge/Note-3106-pink?style=for-the-badge)](./3106.txt)
-<br>
-<br>
 <h2 style="text-indent: 2em; text-decoration: underline;">Learning Outcomes</h2>
 📄 <a href="Pretest.pdf" target="_blank">Pretest</a><br>
 <br>
